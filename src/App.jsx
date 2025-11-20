@@ -483,7 +483,7 @@ export default function App() {
 
               <input
                 id="voter-search-input"
-                placeholder="उदा: महाजन बापु OR Bapu Tukaram OR voter id XWU2254902"
+                placeholder="उदा: मुसळे संकेत OR Sanket Hemkant OR voter id XWU2254902"
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 aria-label="Search voters by name or voter ID"
