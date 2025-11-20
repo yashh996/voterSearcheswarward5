@@ -1,14 +1,14 @@
 import React, { useEffect, useRef, useState } from "react";
 import html2canvas from "html2canvas";
 import votersData from "./data/voters.json";
-import bannerUrl from "./assets/LOGO.jpg";
-import bannerUrl1 from "./assets/awe.jpeg";
-import bannerUrl2 from "./assets/banner.jpeg";
-import bannerUrl23 from "./assets/imagebanner.jpg";
-import resultPhoto from "./assets/mama.jpeg";
-import new1 from "./assets/new2.jpg";
-import new2 from "./assets/new3.jpg";
-import new4 from "./assets/new4.jpg";
+import bannerUrl from "./assets/ward51.jpeg";
+import bannerUrl1 from "./assets/ward52.jpeg";
+import bannerUrl2 from "./assets/ward53.jpeg";
+import bannerUrl23 from "./assets/ward54.jpeg";
+import resultPhoto from "./assets/ward55.jpeg";
+import new1 from "./assets/ward56.jpeg";
+import new2 from "./assets/ward57.jpeg";
+import new4 from "./assets/ward57.jpeg";
 
 const CAMPAIGN_TITLE = `🌸 मतदान करा बापू तुकाराम महाजन यांना 🌸
 💪 विकास आणि जनसेवेच्या वाटचालीसाठी तुमचा एक मत द्या!
@@ -653,7 +653,7 @@ export default function App() {
                     >
                       <div className="header-text" style={{ color: "#0f172a" }}>
                         <span style={{ fontSize: 15, color: "#334155" }}>
-                          Ward 7 ( {ward} )
+                          Ward 5 ( {ward} )
                         </span>
                         <div
                           className="name-en"
