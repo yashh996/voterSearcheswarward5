@@ -1,0 +1,6 @@
+{
+  "appId": "com.Bapu.votersearch",
+  "appName": "voter-search",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
